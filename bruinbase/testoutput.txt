@@ -1,0 +1,17 @@
+Bruinbase> Bruinbase> 8
+Bruinbase> 272 'Baby Take a Bow'
+1578 'G.I. Blues'
+2244 'King Creole'
+2342 'Last Ride, The'
+Bruinbase> Bruinbase> Bruinbase> 50
+Bruinbase> 173 'Angel Levine, The'
+175 'Angel Unchained'
+272 'Baby Take a Bow'
+303 'Bananas'
+395 'Big Jake'
+489 'Blue Hawaii'
+Bruinbase> Bruinbase> Bruinbase> 100
+Bruinbase> 489 'Blue Hawaii'
+Bruinbase> Bruinbase> Bruinbase> 1000
+Bruinbase> Bruinbase> Bruinbase> Bruinbase> Bruinbase> 12278
+Bruinbase> Bruinbase> Bruinbase> Bruinbase> 
